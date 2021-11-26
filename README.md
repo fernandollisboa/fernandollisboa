@@ -39,7 +39,7 @@
 
 <br>
 
-<details>
+<details align="center">
   
- [![fernandollisboa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandoe&langs_count=5&theme=gotham&hide=other&custom_title=Wakatime%20Weekly%20Status)](https://github.com/anuraghazra/github-readme-stats)
+ [![fernandollisboa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandoe&langs_count=5&theme=gotham&hide=other&custom_title=Wakatime%20Weekly%20Status&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 </details>
