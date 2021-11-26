@@ -15,6 +15,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=black)
 
 ### main languages & tools:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black) 
@@ -40,6 +41,7 @@
 <br>
 
 <details align="center">
+<summary>wakatime</summary><br>
   
- [![fernandollisboa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandoe&langs_count=5&theme=gotham&hide=other&custom_title=Wakatime%20Weekly%20Status&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
+[![fernandollisboa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandoe&langs_count=5&theme=gotham&hide=other&custom_title=Wakatime%20Weekly%20Status&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 </details>
