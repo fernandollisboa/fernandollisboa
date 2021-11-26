@@ -1,6 +1,6 @@
 ### hi there 👋
 
-<img align="right" alt="GIF" src="assets/joaofrango.jpg" height="350px" />
+<img align="right" alt="GIF" src="assets/joaofrango.jpg" height="300px" />
 
 - 🔭 i’m a *soon-to-be* night-time full stack developer🦉
 - 🌱 i’m currently learning back-end technologies (see below)
