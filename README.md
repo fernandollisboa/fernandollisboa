@@ -21,10 +21,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black)
 -
 
-
-
-
-
 ### other technologies:
 <div style="display: inline_block">
   <img align="center" title="Spring" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -36,8 +32,14 @@
 
 ##
 
-
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=fernandollisboa&hide=issues&show_icons=true&theme=gotham&border_radius=15px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandollisboa&langs_count=4&theme=gotham&layout=compact&border_radius=15px" />
 </div>
+
+<br>
+
+<details>
+  
+ [![fernandollisboa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandoe&langs_count=5&theme=gotham&hide=other&custom_title=Wakatime%20Weekly%20Status)](https://github.com/anuraghazra/github-readme-stats)
+</details>
