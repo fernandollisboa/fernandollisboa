@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" src="assets/joaofrango.jpg" height="300px" />
 
-- 🔭 i’m a *soon-to-be* night-time full stack developer🦉
+- 🔭 i’m a *soon-to-be* full stack developer🦉
 - 🌱 i’m currently learning back-end technologies (see below)
 - 📖 i’m finishing a webDev bootcamp at <a href="https://www.driven.com.br/"> <img title="Driven" alt="Driven" src="https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg" height="15px"/> </a>
-- 📫 how to reach me: <a href = "mailto:fernando.costa@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" width="55px"></a>
+- 📫 how to reach me: [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
 - 😄 pronouns: he/him
 
 ### learning: 
