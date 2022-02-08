@@ -2,17 +2,10 @@
 
 <img align="right" alt="GIF" src="assets/joaofrango.jpg" height="300px" />
 
-- 🔭 i’m a *soon-to-be* full stack developer🦉
-- 🌱 i’m currently learning back-end technologies (see below)
-- 📖 i’m finishing a webDev bootcamp at <a href="https://www.driven.com.br/"> <img title="Driven" alt="Driven" src="https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg" height="15px"/> </a>
+- 🔭 i’m a full stack developer🦉
+- 🌱 i’m currently working at  <a href="https://www.driven.com.br/"> <img title="Driven" alt="Driven" src="https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg" height="15px"/> </a>
 - 📫 how to reach me: [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
 - 😄 pronouns: he/him
-
-### learning: 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=black)
 
 ### main languages & tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,7 +13,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black)
--
+
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=black)
 
 ### other technologies:
 <div style="display: inline_block">
