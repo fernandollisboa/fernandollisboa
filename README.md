@@ -3,7 +3,7 @@
 <img align="right" alt="joão frango" src="assets/joaofrango.jpg" height="300px" />
 
 - 🔭 i’m a full stack developer🦉
-- 💼 i’m currently working at  <a href="https://www.driven.com.br/"> <img title="Driven" alt="Driven" src="https://www.driven.com.br/wp-content/uploads/2021/07/logo-footer.svg" height="15px"/> </a>
+- 💼 i’m currently between jobs
 - 📫 how to reach me: [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
 - 😄 pronouns: he/him
 
