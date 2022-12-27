@@ -5,7 +5,6 @@
 - 🔭 i’m a full stack developer🦉
 - 💼 i’m currently between jobs
 - 📫 how to reach me: [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
-- 😄 pronouns: he/him
 
 ### main languages & tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
