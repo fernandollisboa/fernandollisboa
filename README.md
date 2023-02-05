@@ -3,7 +3,6 @@
 <img align="right" alt="joão frango" src="assets/joaofrango.jpg" height="300px" />
 
 - 🔭 i’m a full stack developer🦉
-- 💼 i’m currently between jobs
 - 📫 how to reach me: [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
 
 ### main languages & tools:
