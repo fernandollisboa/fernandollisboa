@@ -2,8 +2,8 @@
 
 <img align="right" alt="joão frango" src="assets/joaofrango.jpg" height="350px"/>
 
-- 🔭 i’m a full stack developer🦉
-- 📫 how to reach me: [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
+- i’m a full stack developer🦉
+- how to reach me: [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
 
 ## main languages & tools:
 <div>
