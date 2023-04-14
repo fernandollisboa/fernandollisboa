@@ -1,6 +1,6 @@
 ### hi there! 👋
 
-<img align="right" alt="joão frango" src="assets/joaofrango.jpg" height="350px"/>
+<img align="right" alt="joão frango" src="assets/joaofrango.jpg" height="300px"/>
 
 - i’m a full stack developer
 - undergraduate computer science student @ ufcg
