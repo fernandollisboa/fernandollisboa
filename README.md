@@ -8,7 +8,7 @@
 
 ### main languages & tools
 <div>
-  <img align="center" title="ReactJS" alt="ReactJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" title="ReactJS" alt="ReactJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" title="Node.js" alt="Node.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" title="Java" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <img align="center" title="Docker" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -32,14 +32,11 @@
 ##
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=fernandollisboa&hide=issues&show_icons=true&theme=gotham&border_radius=15px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandollisboa&langs_count=4&theme=gotham&layout=compact&border_radius=15px" />
+  
+  [![fernandollisboa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandoe&langs_count=5&theme=gotham&hide=other&custom_title=Wakatime%20Weekly%20Status&range=last_7_days&border_radius=15px)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandollisboa&langs_count=8&theme=gotham&layout=compact&border_radius=15px" />
+</div>
+<div align="center">
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=fernandollisboa&hide=issues&show_icons=true&theme=gotham&border_radius=15px" />
 </div>
 
-<br>
-
-<details align="center">
-<summary>wakatime</summary><br>
-  
-[![fernandollisboa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandoe&langs_count=5&theme=gotham&hide=other&custom_title=Wakatime%20Weekly%20Status&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
-</details>
