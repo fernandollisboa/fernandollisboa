@@ -39,6 +39,6 @@
   <img width="268px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandollisboa&langs_count=8&theme=gotham&layout=compact&border_radius=15px" />
 </div>
 <div align="center">
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=fernandollisboa&hide=issues&show_icons=true&theme=gotham&border_radius=15px" />
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=fernandollisboa&show_icons=true&theme=gotham&border_radius=15px" />
 </div>
 
