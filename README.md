@@ -2,8 +2,10 @@
 
 <img align="right" alt="joão frango" src="assets/joaofrango.jpg" height="300px"/>
 
-- computer scientist @ ufcg
+- computer scientist (ccc@ufcg)
 - full stack developer
+  - react.js/node.js
+  - ruby on rails
 - how to reach me: [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
 
 ### main languages & tools
