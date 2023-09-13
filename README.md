@@ -2,11 +2,12 @@
 
 <img align="right" alt="joão frango" src="assets/joaofrango.jpg" height="300px"/>
 
-- computer scientist (ccc@ufcg)
-- full stack web developer
+- 🔬 computer scientist (Universidade Federal de Campina Grade)
+- 💼 currently working at [codeminer42](https://www.codeminer42.com/)
+- 🤓 most of the times i'm building stuff its with
   - react.js/node.js
   - ruby on rails
-- how to reach me: [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
+- feel free to reach me > [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
 
 ### main languages & tools
 <div>
