@@ -2,7 +2,7 @@
 
 <img align="right" alt="joão frango" src="assets/joaofrango.jpg" height="300px"/>
 
-- 🔬 computer scientist (Universidade Federal de Campina Grade)
+- 🔬 computer scientist (ccc@ufcg)
 - 💼 currently working at [codeminer42](https://www.codeminer42.com/)
 - 🤓 i mostly build things using:
   - react.js/node.js
