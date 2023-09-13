@@ -4,10 +4,10 @@
 
 - 🔬 computer scientist (Universidade Federal de Campina Grade)
 - 💼 currently working at [codeminer42](https://www.codeminer42.com/)
-- 🤓 most of the times i'm building stuff its with
+- 🤓 i mostly build things using:
   - react.js/node.js
   - ruby on rails
-- feel free to reach me > [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
+- 🤙 feel free to reach me > [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
 
 ### main languages & tools
 <div>
