@@ -4,7 +4,7 @@
 
 - 🔬 computer scientist (ccc@ufcg)
 - 💼 currently working at Codeminer[42](https://www.codeminer42.com/)
-- 🛠️ i build things using:
+- 🛠️ building things using:
   - react.js/node.js
   - ruby on rails
 - 🤙 feel free to reach me > [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
