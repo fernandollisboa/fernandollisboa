@@ -7,7 +7,7 @@
 - 🛠️ been building things using:
   - react.js/node.js
   - ruby on rails
-- 🤙 feel free to reach me > [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
+- 🤌 feel free to reach me > [✉](mailto:fernando.costa@ccc.ufcg.edu.br)
 
 ### main languages & tools
 <div>
