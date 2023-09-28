@@ -4,36 +4,30 @@
 
 - 🔬 computer scientist (ccc@ufcg)
 - 💼 currently working at Codeminer[42](https://www.codeminer42.com/)
-- 🛠️ been building things using:
-  ↪️ react
-  ↪️ node
-  ↪️ ruby on rails 
-- 🤠 feel free to reach me at [📫](mailto:fernando.costa@ccc.ufcg.edu.br)
+- 🛠️ i build things using:
+  - ruby on rails 
+  - react
+  - node
+- 🤙 feel free to reach me [>>📫](mailto:fernando.costa@ccc.ufcg.edu.br)
 
 ### main languages & tools
 <div>
-  <img title="ReactJS" alt="ReactJS" width="50"
+      <img title="Ruby" alt="Ruby" width="45"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
+      <img title="ReactJS" alt="ReactJS" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img title="Node.js" alt="Node.js" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-      <img title="Ruby" alt="Ruby" width="45"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
       <img title="Docker" alt="Docker" width="55"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</div>
-
-### other technologies
-<div>
-  <img  align="center" title="PostgreSQL" alt="PostgreSQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" title="Spring" alt="Spring" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" title="Python" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" title="C" alt="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 ### also interested in
 <div>
   <img align="center" title="Go" alt="Go" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img align="center" title="Haskell" alt="Haskell" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />  
+  <img align="center" title="Haskell" alt="Haskell" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /> 
+<img align="center" title="Python" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" title="C" alt="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 ##
