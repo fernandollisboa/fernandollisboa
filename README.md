@@ -10,6 +10,9 @@
   - node
 - 🤙 feel free to reach me [>>📫](mailto:fernando.costa@ccc.ufcg.edu.br)
 
+### blogposts
+* [How to Import .xlsx into your Ruby on Rails Project](https://blog.codeminer42.com/from-bulls-to-bytes-excel-data-importation-made-easy-with-ruby-on-rails/)
+
 ### main languages & tools
 <div>
       <img title="Ruby" alt="Ruby" width="45"
