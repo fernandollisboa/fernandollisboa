@@ -1,25 +1,10 @@
 ### Hi there! 👋
 
-<img align="left" alt="joão frango" src="assets/joaofrango.jpg" height="300px"/>
-
-<br/>
-<br/>
-<br/>
-<br/>
+<img align="right" alt="joão frango" src="assets/joaofrango.jpg" height="300px"/>
 
 I'm a **computer scientist** passionate about building things with Ruby on Rails ❤️.
 Currently working at [Codeminer42](https://github.com/codeminer42).
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-##
-
+ 
 ### Blogposts
 * [How to Import .xlsx into your Ruby on Rails Project](https://blog.codeminer42.com/from-bulls-to-bytes-excel-data-importation-made-easy-with-ruby-on-rails/)
 * [An Introduction to Docker](https://blog.codeminer42.com/docker-and-containerization/)
