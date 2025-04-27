@@ -2,7 +2,7 @@
 
 <img align="right" alt="joão frango" src="assets/joaofrango.jpg" height="300px"/>
 
-I'm a **computer scientist** passionate about building things with Ruby on Rails ❤️.
+I'm a **computer scientist** passionate about building things with Ruby on Rails.
 Currently working at [Codeminer42](https://github.com/codeminer42).
  
 ### Blogposts
