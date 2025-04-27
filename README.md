@@ -1,22 +1,35 @@
-### hi there! 👋
+### Hi there! 👋
 
-<img align="right" alt="joão frango" src="assets/joaofrango.jpg" height="300px"/>
+<img align="left" alt="joão frango" src="assets/joaofrango.jpg" height="300px"/>
 
-- 🔬 computer scientist (ccc@ufcg)
-- 💼 currently working at Codeminer[42](https://www.codeminer42.com/)
-- 🛠️ i build things using:
-  - ruby on rails 
-  - react
-  - node
-- 🤙 feel free to reach me [>>📫](mailto:fernando.costa@ccc.ufcg.edu.br)
+<br/>
+<br/>
+<br/>
+<br/>
 
-### blogposts
+I'm a **computer scientist** passionate about building things with Ruby on Rails ❤️.
+Currently working at [Codeminer42](https://github.com/codeminer42).
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+##
+
+### Blogposts
 * [How to Import .xlsx into your Ruby on Rails Project](https://blog.codeminer42.com/from-bulls-to-bytes-excel-data-importation-made-easy-with-ruby-on-rails/)
+* [An Introduction to Docker](https://blog.codeminer42.com/docker-and-containerization/)
 
-### main languages & tools
+### Main Languages & Tools
 <div>
       <img title="Ruby" alt="Ruby" width="45"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
+      <img title="Go" alt="Docker" width="55"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
       <img title="ReactJS" alt="ReactJS" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img title="Node.js" alt="Node.js" width="50"
@@ -27,7 +40,6 @@
 
 ### also interested in
 <div>
-  <img align="center" title="Go" alt="Go" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img align="center" title="Haskell" alt="Haskell" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /> 
 <img align="center" title="Python" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="C" alt="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
