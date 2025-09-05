@@ -34,11 +34,7 @@ Currently working at [Codeminer42](https://github.com/codeminer42).
 ##
 
 <div align="center">
-  
-  [![fernandollisboa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nandoe&langs_count=4&theme=gotham&hide=other&custom_title=Wakatime%20Weekly%20Status&range=last_7_days&border_radius=15px)](https://github.com/anuraghazra/github-readme-stats)
   <img width="268px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandollisboa&langs_count=8&theme=gotham&layout=compact&border_radius=15px" />
-</div>
-<div align="center">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=fernandollisboa&show_icons=true&theme=gotham&border_radius=15px" />
 </div>
 
