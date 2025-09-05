@@ -8,6 +8,7 @@ Currently working at [Codeminer42](https://github.com/codeminer42).
 ### Blogposts
 * [How to Import .xlsx into your Ruby on Rails Project](https://blog.codeminer42.com/from-bulls-to-bytes-excel-data-importation-made-easy-with-ruby-on-rails/)
 * [An Introduction to Docker](https://blog.codeminer42.com/docker-and-containerization/)
+* [Create CI/CD Pipelines with GitHub Actions](https://blog.codeminer42.com/create-ci-cd-pipelines-with-github-actions/)
 
 ### Main Languages & Tools
 <div>
