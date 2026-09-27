@@ -30,11 +30,3 @@ Currently working at [Codeminer42](https://github.com/codeminer42).
 <img align="center" title="Python" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="C" alt="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
-
-##
-
-<div align="center">
-  <img width="268px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandollisboa&langs_count=8&theme=gotham&layout=compact&border_radius=15px" />
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=fernandollisboa&show_icons=true&theme=gotham&border_radius=15px" />
-</div>
-
